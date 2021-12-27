@@ -1,4 +1,3 @@
-#include <bits/stdc++.h>
 #include "day09.h"
 
 using namespace std;
