@@ -17,10 +17,10 @@ using namespace std;
 
 int main() {
 
-    for (int day = 1; day <= 2; day++){
+    for (int day = 1; day <= 12; day++){
 
         cout << intro_line(day) << day12(day) << day11(day) << day10(day) << day09(day) << day08(day) << day07(day) <<
-                day06(day) << day06(day) << day11(day) << day10(day) << day09(day) << day08(day) << day07(day) << "\n";
+                day06(day) << day05(day) << day04(day) << day03(day) << day02(day) << day01(day) << "\n";
 
     }
 
