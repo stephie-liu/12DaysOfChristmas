@@ -2,7 +2,11 @@
 
 2021-22 FRC Programming team's first Git(Hub) project.
 
-## Part 1
+## Current Task
+
+*Coming soon*
+
+## Previous Task #1
 
 **Your task is to:**
 1. Clone the repository
@@ -12,12 +16,8 @@
 - Please name files and branches with `dayxx` (e.g. `day01`, `day10`)
 - You need both a `dayxx.cpp` and `dayxx.h`
 - Be certain you are pushing to your branch, not origin. If you're unsure, test it out first in your own repository
-- Make sure your line of Christmas sends a message on the right days, and include \n at the end of the return string
+- Make sure your line of Christmas sends a message on the right days, and include `\n` at the end of the return string
 - If it is not your day of Christmas, return `""`
 - Use `intro_line.cpp` and `intro_line.h` as examples
 - Follow the format of the 12 Days of Christmas song, you may make a parody of the line if you want
 - Do NOT push, especially force push, make a pull request
-
-## Part 2
-
-*Coming soon*
